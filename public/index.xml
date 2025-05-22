@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Empowering Startups with High-Impact Technology Services on TekyBro</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Empowering Startups with High-Impact Technology Services on TekyBro</description>
+    <image>
+      <title>TekyBro</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 10:10:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 22 May 2024 10:10:00 +0530</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;d love to hear from you! Reach out to TekyBro for your technology partnership needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +91 9711698790&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Headquarters (Primary):&lt;/strong&gt;
+Bengaluru, Karnataka 560066, IN&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;US Head Office:&lt;/strong&gt;
+California, U.S. 94016, US&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Specialties:&lt;/strong&gt; Software development, MVP Development, Staff Augmentation, CTOasaService, TechnologyDueDiligence&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Wed, 22 May 2024 10:05:00 +0530</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;p&gt;At TekyBro, we offer specialized technology services tailored to the unique needs of startups and growing businesses.&lt;/p&gt;
+&lt;h3 id=&#34;cto-as-a-service&#34;&gt;CTO as a Service&lt;/h3&gt;
+&lt;p&gt;Gain strategic technology leadership without the overhead of a full-time executive. Our seasoned CTOs provide guidance on technology roadmaps, architecture, team building, and innovation, ensuring your tech strategy aligns perfectly with your business goals.&lt;/p&gt;
+&lt;h3 id=&#34;technology-due-diligence&#34;&gt;Technology Due Diligence&lt;/h3&gt;
+&lt;p&gt;Whether you&amp;rsquo;re an investor, acquiring a company, or preparing for scale, our precision audits provide deep insights into technology stacks, infrastructure, security, and operational readiness. We help you de-risk your investments and ensure a solid foundation for growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 22 May 2024 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;At TekyBro, we empower startups and growing businesses with high-impact technology services designed for speed, scalability, and success.&lt;/p&gt;
+&lt;h3 id=&#34;our-core-offerings&#34;&gt;Our Core Offerings:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;CTO as a Service:&lt;/strong&gt; Strategic tech leadership without full-time overheads.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technology Due Diligence:&lt;/strong&gt; Precision audits for investment, acquisition, and scale readiness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MVP Development:&lt;/strong&gt; Transforming ideas into market-ready products, fast and efficiently.&lt;/p&gt;
+&lt;h3 id=&#34;why-tekybro&#34;&gt;Why TekyBro?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Access to seasoned CTOs across industries (Fintech, HealthTech, SaaS, AI/ML, and more)&lt;/li&gt;
+&lt;li&gt;✅ Founder-centric approach focused on execution, not just strategy&lt;/li&gt;
+&lt;li&gt;✅ Proven track record in building, scaling, and de-risking tech ventures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From &amp;ldquo;Zero to One&amp;rdquo; and beyond, TekyBro is your trusted technology growth partner.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

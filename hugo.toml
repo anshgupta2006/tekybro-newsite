@@ -1,0 +1,27 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "TekyBro"
+theme = "PaperMod"
+
+[params]
+    home = "Home"
+    description = "Empowering Startups with High-Impact Technology Services"
+    keywords = ["TekyBro", "CTO as a Service", "MVP Development", "Tech Due Diligence", "Startup Growth"]
+    images = ["<link or path of image for opengraph, twitter-cards>"] # Optional: Add a default image for social media
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About Us"
+        url = "/about/"
+        weight = 10
+    [[menu.main]]
+        identifier = "services"
+        name = "Our Services"
+        url = "/services/"
+        weight = 20
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact Us"
+        url = "/contact/"
+        weight = 30
